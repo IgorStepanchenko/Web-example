@@ -1,0 +1,61 @@
+
+ @media screen and (max-width:980px) {
+
+      /*NAV*/
+
+ul.nav { text-align:center !important; }
+
+  section.header { padding-top:100px; }
+ .header-inner h1 { color:red; }
+ .header-inner { padding-top:0; }
+ .header-inner h1 { font-size:46px; }
+ .header-inner p { font-size:19px; }
+ .h-btn { text-align:center;}
+
+
+
+    /*TWO-SECTION*/	
+
+ .two-content { max-width:290px;width:auto !important; margin:0 auto;}
+ .two-content h5,p { text-align:center; }
+ .two-content img { display:block;margin:0 auto; }
+
+
+    /*DISCOVER*/
+
+.discover-content { margin:0 auto; }
+.discover-content-text { padding:70px 0 30px 0; }
+.discover-content-text h2 { text-align:center; font-size:60px; }
+   .app-btn { text-align:center; } 
+
+
+
+
+   .color-btn h3, .color-btn a { display:block; }   
+   .color-btn a { margin:10px auto; }   
+
+.phone { text-align:center; }
+.phone img { margin:0 auto; }
+.four ul { max-width:330px; margin:0 auto; }
+
+}
+
+
+@media screen and (max-width:563px) {
+input[type="button"] { margin-top:20px; }
+
+}
+
+
+
+
+
+@media screen and (max-width:479px) {
+
+.discover-content-text h2 { text-align:center;
+ font-size:36px; line-height: 46px }
+
+.app-btn { text-align:center; }
+
+
+}
